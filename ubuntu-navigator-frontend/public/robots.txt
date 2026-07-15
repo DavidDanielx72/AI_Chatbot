@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cape-town-aid-guide.lovable.app/sitemap.xml

@@ -1,0 +1,6 @@
+# Ubuntu Navigator
+
+> Free AI helper for people in Cape Town, South Africa, to access SASSA grants, Home Affairs ID documents, SARS registration, and basic labour rights — in plain language.
+
+## Pages
+- [Home / Chat](/): Conversational AI helper for grants, IDs, and rights.
