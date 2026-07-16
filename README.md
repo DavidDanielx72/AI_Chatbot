@@ -2,6 +2,10 @@
 
 ### *Your Rights, Your Grants, Your Guide.*
 
+<p align="center">
+  <img src="images/Header.png" alt="Ubuntu Navigator" width="900"/>
+</p>
+
 ---
 
 ## 📖 About the Project
@@ -72,17 +76,17 @@ Ubuntu Navigator is designed for South Africans aged **16 years and older**, inc
 
 To improve accessibility, Ubuntu Navigator is designed to support all **11 Official South African Languages**.
 
-* 🇿🇦 English
-* 🇿🇦 Afrikaans
-* 🇿🇦 isiZulu
-* 🇿🇦 isiXhosa
-* 🇿🇦 Sesotho
-* 🇿🇦 Setswana
-* 🇿🇦 Sepedi
-* 🇿🇦 siSwati
-* 🇿🇦 Tshivenda
-* 🇿🇦 Xitsonga
-* 🇿🇦 isiNdebele
+* English
+* Afrikaans
+* isiZulu
+* isiXhosa
+* Sesotho
+* Setswana
+* Sepedi
+* siSwati
+* Tshivenda
+* Xitsonga
+* isiNdebele
 
 ---
 
@@ -218,8 +222,8 @@ Features include:
 
 ## Development Tools
 
-* Visual Studio Code
-* Git
+* Lovable
+* IntelliJ
 * GitHub
 
 ---
