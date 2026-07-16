@@ -3,7 +3,7 @@
 ### *Your Rights, Your Grants, Your Guide.*
 
 <p align="center">
-  <img src="images/Header.png" alt="Ubuntu Navigator" width="900"/>
+  <img src="Header.png" alt="Ubuntu Navigator" width="900"/>
 </p>
 
 ---
