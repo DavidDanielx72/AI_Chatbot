@@ -1,11 +1,6 @@
 # Ubuntu Navigator
 
 ### *Your Rights, Your Grants, Your Guide.*
-
-<p align="center">
-  <img src="Header.png" alt="Ubuntu Navigator" width="900"/>
-</p>
-
 ---
 
 ## 📖 About the Project
