@@ -1,5 +1,7 @@
 # Ubuntu Navigator
 
+**🔗 [Launch Ubuntu Navigator](https://cape-town-aid-guide.lovable.app)**
+
 ### *Your Rights, Your Grants, Your Guide.*
 ---
 
