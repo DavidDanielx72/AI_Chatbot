@@ -201,6 +201,7 @@ Features include:
 * HTML5
 * CSS3
 * JavaScript
+* TypeScript
 
 ---
 
@@ -256,7 +257,7 @@ Responsible for:
 
 * User Interface
 * Layout
-* Responsive Design
+* Responsive & User Friendly Design
 * Interactive Features
 * Accessibility
 
